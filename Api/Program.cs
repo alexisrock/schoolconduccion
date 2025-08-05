@@ -11,7 +11,7 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 
 builder.Services.AddControllers();
- 
+builder.WebHost.UseUrls("http://*:8097");
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddControllers()
         .AddJsonOptions(JsonOptions =>
