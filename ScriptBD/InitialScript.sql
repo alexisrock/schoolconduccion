@@ -90,5 +90,21 @@ INSERT [dbo].[Modulo]([Descripcion],[IdMateria] )  VALUES (N'Marco Legal I', 3)
 INSERT  [dbo].[Modulo]([Descripcion],[IdMateria]) VALUES (N'Marco Legal II', 3)
 
 
+GO
+
+ CREATE PROCEDURE SPEstudiantes
+ AS
+ BEGIN
+
+	SELECT 
+	U.NameUsuario,
+    U.Identificacion,
+    U.Edad,
+    L.Description
+	FROM Usuario AS U
+	INNER JOIN Licencia AS L ON U.IdLicencia = L.Id
+
+ END
+
 
 
