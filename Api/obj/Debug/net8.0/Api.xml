@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Api</name>
+    </assembly>
+    <members>
+        <member name="T:Api.Controllers.EstudianteController">
+            <summary>
+            Controller of rol
+            </summary>
+        </member>
+        <member name="M:Api.Controllers.EstudianteController.#ctor(MediatR.ISender)">
+            <summary>
+            Constructor
+            </summary>
+        </member>
+        <member name="M:Api.Controllers.EstudianteController.GetAllEstudiantes">
+            <summary>
+            Metodo para obtener por materia todos estudiantes   
+            </summary>
+        </member>
+        <member name="T:Api.Controllers.InscripcionModuloController">
+            <summary>
+            Controlador de materia profesor
+            </summary>
+        </member>
+        <member name="M:Api.Controllers.InscripcionModuloController.#ctor(MediatR.ISender)">
+            <summary>
+            Constructor
+            </summary>
+        </member>
+        <member name="M:Api.Controllers.InscripcionModuloController.Create(Application.UseCases.AsignarModuloEstudiante.AsignarMateriaRequest)">
+            <summary>
+            Metodo para la creacion de materias de un estudiante      
+            </summary>
+        </member>
+        <member name="T:Api.Controllers.LicenciaController">
+            <summary>
+            Controller of rol
+            </summary>
+        </member>
+        <member name="M:Api.Controllers.LicenciaController.#ctor(MediatR.ISender)">
+            <summary>
+            Constructor
+            </summary>
+        </member>
+        <member name="M:Api.Controllers.LicenciaController.GetAll">
+            <summary>
+            Metodo para obtener los roles del sistema    
+            </summary>
+             
+        </member>
+        <member name="T:Api.Controllers.ModulosController">
+            <summary>
+            Controller of rol
+            </summary>
+        </member>
+        <member name="M:Api.Controllers.ModulosController.#ctor(MediatR.ISender)">
+            <summary>
+            Constructor
+            </summary>
+        </member>
+        <member name="M:Api.Controllers.ModulosController.GetAll">
+            <summary>
+            Metodo para obtener todas las materias por IdUsuario
+            </summary>
+        </member>
+        <member name="T:Api.Middlewares.ExceptionHandlingMiddleware">
+            <summary>
+            Middleware de comprobacion de los errores  o excepciones
+            </summary>
+        </member>
+        <member name="M:Api.Middlewares.ExceptionHandlingMiddleware.#ctor(Microsoft.AspNetCore.Http.RequestDelegate)">
+            <summary>
+            Constructor
+            </summary>
+        </member>
+        <member name="M:Api.Middlewares.ExceptionHandlingMiddleware.Invoke(Microsoft.AspNetCore.Http.HttpContext)">
+            <summary>
+            Metodo para la generacion de los errores de la aplicacion
+            </summary>
+        </member>
+    </members>
+</doc>

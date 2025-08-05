@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vboxuser\\Documents\\Projects\\NET\\schoolconduccion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A0B6ECE-AFB2-43DE-959D-51F7344B5D62}|Infrastructure\\Infrastructure.csproj|c:\\users\\vboxuser\\documents\\projects\\net\\schoolconduccion\\infrastructure\\persistence\\spestudianterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A0B6ECE-AFB2-43DE-959D-51F7344B5D62}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistence\\spestudianterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F4FEA7-CEC5-4505-B504-6EBB532BE37D}|Application\\Application.csproj|c:\\users\\vboxuser\\documents\\projects\\net\\schoolconduccion\\application\\usecases\\obtenermateriasestudiantes\\obtenerestudiantehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F4FEA7-CEC5-4505-B504-6EBB532BE37D}|Application\\Application.csproj|solutionrelative:application\\usecases\\obtenermateriasestudiantes\\obtenerestudiantehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1476D205-2366-4E6D-806A-6C44C76DA75B}|Api\\Api.csproj|c:\\users\\vboxuser\\documents\\projects\\net\\schoolconduccion\\api\\controllers\\estudiantecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1476D205-2366-4E6D-806A-6C44C76DA75B}|Api\\Api.csproj|solutionrelative:api\\controllers\\estudiantecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1476D205-2366-4E6D-806A-6C44C76DA75B}|Api\\Api.csproj|c:\\users\\vboxuser\\documents\\projects\\net\\schoolconduccion\\api\\controllers\\licenciacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1476D205-2366-4E6D-806A-6C44C76DA75B}|Api\\Api.csproj|solutionrelative:api\\controllers\\licenciacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A0B6ECE-AFB2-43DE-959D-51F7344B5D62}|Infrastructure\\Infrastructure.csproj|c:\\users\\vboxuser\\documents\\projects\\net\\schoolconduccion\\infrastructure\\persistence\\licenciarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A0B6ECE-AFB2-43DE-959D-51F7344B5D62}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistence\\licenciarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F4FEA7-CEC5-4505-B504-6EBB532BE37D}|Application\\Application.csproj|c:\\users\\vboxuser\\documents\\projects\\net\\schoolconduccion\\application\\usecases\\obtenerlicencias\\licenciahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F4FEA7-CEC5-4505-B504-6EBB532BE37D}|Application\\Application.csproj|solutionrelative:application\\usecases\\obtenerlicencias\\licenciahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1476D205-2366-4E6D-806A-6C44C76DA75B}|Api\\Api.csproj|c:\\users\\vboxuser\\documents\\projects\\net\\schoolconduccion\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1476D205-2366-4E6D-806A-6C44C76DA75B}|Api\\Api.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1476D205-2366-4E6D-806A-6C44C76DA75B}|Api\\Api.csproj|c:\\users\\vboxuser\\documents\\projects\\net\\schoolconduccion\\api\\controllers\\moduloscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1476D205-2366-4E6D-806A-6C44C76DA75B}|Api\\Api.csproj|solutionrelative:api\\controllers\\moduloscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1476D205-2366-4E6D-806A-6C44C76DA75B}|Api\\Api.csproj|c:\\users\\vboxuser\\documents\\projects\\net\\schoolconduccion\\api\\controllers\\inscripcionmodulocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1476D205-2366-4E6D-806A-6C44C76DA75B}|Api\\Api.csproj|solutionrelative:api\\controllers\\inscripcionmodulocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A0B6ECE-AFB2-43DE-959D-51F7344B5D62}|Infrastructure\\Infrastructure.csproj|c:\\users\\vboxuser\\documents\\projects\\net\\schoolconduccion\\infrastructure\\persistence\\configuration\\licenciaconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A0B6ECE-AFB2-43DE-959D-51F7344B5D62}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistence\\configuration\\licenciaconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A0B6ECE-AFB2-43DE-959D-51F7344B5D62}|Infrastructure\\Infrastructure.csproj|c:\\users\\vboxuser\\documents\\projects\\net\\schoolconduccion\\infrastructure\\persistence\\pruebacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A0B6ECE-AFB2-43DE-959D-51F7344B5D62}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistence\\pruebacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SPEstudianteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Projects\\NET\\schoolconduccion\\Infrastructure\\Persistence\\SPEstudianteRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\SPEstudianteRepository.cs",
+              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Projects\\NET\\schoolconduccion\\Infrastructure\\Persistence\\SPEstudianteRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\SPEstudianteRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAIAxwBUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T02:10:16.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LicenciaHandler.cs",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Projects\\NET\\schoolconduccion\\Application\\UseCases\\ObtenerLicencias\\LicenciaHandler.cs",
+              "RelativeDocumentMoniker": "Application\\UseCases\\ObtenerLicencias\\LicenciaHandler.cs",
+              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Projects\\NET\\schoolconduccion\\Application\\UseCases\\ObtenerLicencias\\LicenciaHandler.cs",
+              "RelativeToolTip": "Application\\UseCases\\ObtenerLicencias\\LicenciaHandler.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAIA9wBcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T01:39:54.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ObtenerEstudianteHandler.cs",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Projects\\NET\\schoolconduccion\\Application\\UseCases\\ObtenerMateriasEstudiantes\\ObtenerEstudianteHandler.cs",
+              "RelativeDocumentMoniker": "Application\\UseCases\\ObtenerMateriasEstudiantes\\ObtenerEstudianteHandler.cs",
+              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Projects\\NET\\schoolconduccion\\Application\\UseCases\\ObtenerMateriasEstudiantes\\ObtenerEstudianteHandler.cs",
+              "RelativeToolTip": "Application\\UseCases\\ObtenerMateriasEstudiantes\\ObtenerEstudianteHandler.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAB0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T01:59:47.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EstudianteController.cs",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Projects\\NET\\schoolconduccion\\Api\\Controllers\\EstudianteController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\EstudianteController.cs",
+              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Projects\\NET\\schoolconduccion\\Api\\Controllers\\EstudianteController.cs",
+              "RelativeToolTip": "Api\\Controllers\\EstudianteController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAACoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T01:58:02.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LicenciaController.cs",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Projects\\NET\\schoolconduccion\\Api\\Controllers\\LicenciaController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\LicenciaController.cs",
+              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Projects\\NET\\schoolconduccion\\Api\\Controllers\\LicenciaController.cs",
+              "RelativeToolTip": "Api\\Controllers\\LicenciaController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwCUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T01:39:23.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LicenciaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Projects\\NET\\schoolconduccion\\Infrastructure\\Persistence\\LicenciaRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\LicenciaRepository.cs",
+              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Projects\\NET\\schoolconduccion\\Infrastructure\\Persistence\\LicenciaRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\LicenciaRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAhwBUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T01:53:07.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Projects\\NET\\schoolconduccion\\Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Projects\\NET\\schoolconduccion\\Api\\appsettings.json",
+              "RelativeToolTip": "Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-05T01:37:17.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ModulosController.cs",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Projects\\NET\\schoolconduccion\\Api\\Controllers\\ModulosController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\ModulosController.cs",
+              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Projects\\NET\\schoolconduccion\\Api\\Controllers\\ModulosController.cs",
+              "RelativeToolTip": "Api\\Controllers\\ModulosController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwCgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T02:03:24.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PruebaContext.cs",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Projects\\NET\\schoolconduccion\\Infrastructure\\Persistence\\PruebaContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\PruebaContext.cs",
+              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Projects\\NET\\schoolconduccion\\Infrastructure\\Persistence\\PruebaContext.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\PruebaContext.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAWwBgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T01:44:08.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InscripcionModuloController.cs",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Projects\\NET\\schoolconduccion\\Api\\Controllers\\InscripcionModuloController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\InscripcionModuloController.cs",
+              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Projects\\NET\\schoolconduccion\\Api\\Controllers\\InscripcionModuloController.cs",
+              "RelativeToolTip": "Api\\Controllers\\InscripcionModuloController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAA5wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T02:03:18.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LicenciaConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Projects\\NET\\schoolconduccion\\Infrastructure\\Persistence\\Configuration\\LicenciaConfiguration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Configuration\\LicenciaConfiguration.cs",
+              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Projects\\NET\\schoolconduccion\\Infrastructure\\Persistence\\Configuration\\LicenciaConfiguration.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\Configuration\\LicenciaConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T01:41:39.477Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
